@@ -1,7 +1,13 @@
 {
   "permissions": {
     "allow": [
-      "Bash(git ls-tree:*)"
+      "Bash(git ls-tree:*)",
+      "Bash(pnpm install:*)",
+      "Bash(pnpm run:*)",
+      "Bash(pnpm add:*)",
+      "Bash(pnpm dev:*)",
+      "Bash(C:/Users/k1125/Desktop/code/three-fx-studio/pnpm dev:*)",
+      "Bash(taskkill /f /im node.exe)"
     ]
   }
 }
